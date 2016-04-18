@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - @localhost" uuid="c019b6fa-7df9-4ef0-9892-7fa9f9d68ba8">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails demo: development" uuid="2c94343d-645e-4efe-afa4-e7e21c568bf6">
+      <auth-required>false</auth-required>
+    </data-source>
+  </component>
+</project>
