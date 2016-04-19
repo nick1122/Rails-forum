@@ -23,4 +23,6 @@ class User < ActiveRecord::Base
   def is_member_of?(group)
     participated_groups.include?(group)
   end
+
+
 end
